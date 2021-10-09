@@ -1,7 +1,9 @@
 # JavaScript-Week1
 
-## Promineo Tech FESD Coding Bootcamp Week 1
+## Promineo Tech FrontEnd Software Development Coding Bootcamp 
+## Week 1 of 6 
+## Date:  10/5/21 (Assignments due:  10/9/21) 
 
-JavaScript is a 6 week course with in the FESD Coding Bootcamp
+JavaScript is a 6 week course within the FESD Coding Bootcamp
 
-Week 1 assignments include research
+Week 1 Assignments:  Research & LinkedIn Profile update
